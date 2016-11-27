@@ -1,0 +1,51 @@
+# Unit prices are expressed in €/...
+UnitPrice
+
+# Clean-up
+pumping           2.5   #m3
+disposal          35.0  #m3
+cleaning          2.4   #m2
+dehumidification  5.0   #m3
+
+# Removal
+screedremoval        11.80  #m2
+parquetremoval       6.20   #m2 (parquet)
+pavementremoval      12.10  #m2 (ceramic)
+baseboardremoval     0.63   #m
+partitionsremoval    14.90  #m2
+plasterboardremoval  11.80  #m2
+extplasterremoval    7.10   #m2
+intplasterremoval    7.10   #m2
+doorsremoval         21.10  #m2
+windowsremoval       21.10  #m2 
+boilerremoval        0.25   #m2 
+
+# Non-structural
+partitionsreplace    67.2  #m2
+screedreplace        18.7  #m2
+plasterboardreplace  45.5  #m2
+
+# Structural
+soilconsolidation   290.0  #m3
+localrepair         37.5   #m2
+pillarretrofitting  320.0  #m2
+
+# Finishing
+extplasterreplace  27.5   #m2
+intplasterreplace  25.3   #m2
+extpainting        10.3   #m2
+intpainting        8.1    #m2
+pavementreplace    45.0   #m2 (ceramic)
+parquetreplace     113.0  #m2 (parquet)
+baseboardreplace   2.4    #m
+
+# Windows and doors
+doorsreplace    195.0  #m2
+windowsreplace  268.5  #m2
+
+# Building systems
+boilerreplace             17.8 #m2
+radiatorpaint             62.0 #n
+underfloorheatingreplace  72.0 #m2
+electricalsystreplace     42.9 #m2
+plumbingsystreplace       28.9 #m2

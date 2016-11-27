@@ -1,0 +1,5 @@
+# Replacement values according to the building type and building structure, in €/m2
+Detached Semi-detached Apartment Structure 
+1580 1432 1288 RC 
+1131 1027 1288 M
+1131 1027 1288 W

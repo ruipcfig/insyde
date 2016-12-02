@@ -1,8 +1,8 @@
 # INSYDE
 
-This repository contains the the R code for [INSYDE, a synthetic, 
+This repository contains the R code for [INSYDE, a synthetic, 
 probabilistic flood damage model based on explicit cost analysis]
-(http://www.nat-hazards-earth-syst-sci-discuss.net/nhess-2016-163/).
+(http://www.nat-hazards-earth-syst-sci.net/16/2577/2016/).
 
 Correspondence to: Rui Figueiredo (rui.figueiredo@iusspavia.it)
 
